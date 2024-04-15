@@ -106,7 +106,8 @@ while True:
     i+=s
 ```
 ## output:
-![alt text](<study of server client.png>)
+![study of server client](https://github.com/SwaminathanV23000747/ChatStudy/assets/148931113/71acd473-9a47-46f9-bc93-55553c4dd947)
+
 ## Result:
 
 Thus the study on Client Server Chat Applications has been performed
